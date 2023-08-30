@@ -1,7 +1,7 @@
 {
   "name": "matematikasederhana",
   "version": "1.0.0",
-  "description": "Untuk melakukan save pada log dengan bantuan sequelize",
+  "description": "Untuk belajar deploy ke npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
