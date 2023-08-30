@@ -1,0 +1,26 @@
+{
+  "name": "matematikasederhana",
+  "version": "1.0.0",
+  "description": "Untuk melakukan save pada log dengan bantuan sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityarizkyramadhan/matematikasederhana.git"
+  },
+  "keywords": [
+    "matematikasederhana",
+    "node",
+    "js"
+  ],
+  "author": "Aditya Rizky Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityarizkyramadhan/matematikasederhana/issues"
+  },
+  "homepage": "https://github.com/adityarizkyramadhan/matematikasederhana#readme",
+  "dependencies": {
+  }
+}
