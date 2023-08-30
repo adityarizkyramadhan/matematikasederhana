@@ -62,3 +62,20 @@ function sin(a) {
 function cos(a) {
     return Math.cos(a);
 }
+
+
+module.exports = {
+    tambah,
+    kurang,
+    kali,
+    bagi,
+    pangkat,
+    akar,
+    persen,
+    pi,
+    e,
+    log,
+    ln,
+    sin,
+    cos
+}
